@@ -1,3 +1,11 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [CalendarExporter.cs](./CS/GoogleCalendarExample/CalendarExporter.cs) (VB: [CalendarExporter.vb](./VB/GoogleCalendarExample/CalendarExporter.vb))
+* [Form1.cs](./CS/GoogleCalendarExample/Form1.cs) (VB: [Form1.vb](./VB/GoogleCalendarExample/Form1.vb))
+* [GoogleCalendarUtils.cs](./CS/GoogleCalendarExample/GoogleCalendarUtils.cs) (VB: [GoogleCalendarUtils.vb](./VB/GoogleCalendarExample/GoogleCalendarUtils.vb))
+* [RecurrencePatternParser.cs](./CS/GoogleCalendarExample/RecurrencePatternParser.cs) (VB: [RecurrencePatternParser.vb](./VB/GoogleCalendarExample/RecurrencePatternParser.vb))
+<!-- default file list end -->
 # How to export scheduler appointments in Google Calendar
 
 
